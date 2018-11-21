@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TransparentMessenger</string>
+    <string name="text_vew_enter_the_message_hint">введите сообщение</string>
+    <string name="button_send_the_message_text">отправить сообщение</string>
+</resources>
